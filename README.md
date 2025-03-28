@@ -8,7 +8,3 @@ To run the app you need to use the command `node index.js` and it will create a 
 
 Typically NodeJS doesn't run as a background service so you will have to access via a browser, unless you were to install a node dependency to allow background services (NPM Forever)
 # lab4-jenkins
-# lab4-jenkins
-# lab4-jenkins
-# lab4-jenkins
-# lab4-jenkins
